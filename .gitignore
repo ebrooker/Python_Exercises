@@ -1,0 +1,16 @@
+# Development folders
+**/data/
+**/dev/
+**/testdir/
+**/build/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Log files
+*.log
+
