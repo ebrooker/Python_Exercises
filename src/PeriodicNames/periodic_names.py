@@ -234,7 +234,7 @@ if __name__ == '__main__':
     print("\nPeriodic Names Builder w/ For-Loop and List Comprehensions")
     test_lists(periodic_names,fdict)
     print("\nPeriodic Names Builder w/ Recursive If-statements")
-    test(periodic_names_recursive,fdict)
+    test_lists(periodic_names_recursive,fdict)
     print("\n")
 
 
